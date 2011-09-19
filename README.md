@@ -1,5 +1,5 @@
 ## Overview
-The browser is arguably the single most important platform for software development today, boasting support of strong standards for development (HTML5/Javascript/CSS3) and an equally vast ecosys- tem of developer communities supporting application development targeting the web (Java, PHP, Ruby). The browser now supports all screens, including TV Settop box, Mobile, Tablet, Desktop, and Laptop. This project offers a browser-based adaptation of the CCN protocol for the browser.
+The browser is arguably the single most important platform for software development today, boasting support of strong standards for development (HTML5/Javascript/CSS3) and an equally vast ecosystem of developer communities supporting application development targeting the web (Java, PHP, Ruby). The browser now supports all screens, including TV Settop box, Mobile, Tablet, Desktop, and Laptop. This project offers a browser-based adaptation of the CCN protocol for the browser.
 
 ## What is CCN4B.js
 
@@ -13,8 +13,8 @@ CCN4B.js is to be organized similar to an umbrella JSR, such that it contains re
 
 ## Code 
 
-https://github.com/truedat101/ccn4bnode
-https://github.com/truedat101/ccn4bname.js
+* https://github.com/truedat101/ccn4bnode
+* https://github.com/truedat101/ccn4bname.js
 
 ## Building
 
